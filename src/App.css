@@ -1,0 +1,22 @@
+body {
+	margin: 20px;
+}
+
+a:visited {
+	color: blue;
+}
+
+.col {
+	width: 33%;
+	display: inline-block;
+	vertical-align: top;
+	margin: 10px;
+}
+
+table,
+th,
+tr,
+td {
+	border-collapse: collapse;
+	border: 1px solid #d3d3d3;
+}
